@@ -28,4 +28,5 @@ python3 main.py
 И заводим 2 переменные: TG_TOKEN и SENTRY. В VALUE записываем токен нашего бота в телеграмме и ключ нашего проекта в сентри соответственно.
 ![img.png](imgs/tokens.png)
 
-
+Также не забываем переместить ползунок в Resources
+![img.png](imgs/turn-on.png)
